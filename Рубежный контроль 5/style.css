@@ -2,6 +2,7 @@ header {
 	width: 1920px;
 	height: 900px;
 	/*background-color: #41e0d8;*/
+	
 	background-image: url(images/background.png);
 }
 /*
@@ -11,6 +12,7 @@ body{
 }
 */
 /*.body_content{
+	width: 1920px;
 	width: 1920px;
 	height: 959px;
 	background-color: #f9f9f9;
@@ -26,6 +28,8 @@ h1{
  float: right; 
 
 }
+
+p{color:#ffffff;}
 
 #block-nav-menu ul{
  margin: 0;
@@ -113,6 +117,7 @@ align-items: center;
 
 /*2ой блок после хеад*/
 .article_1{
+	
 	margin: 293px 295px 0px 480px;
 }
 
@@ -298,7 +303,7 @@ font-family: OpenSans;
   line-height: 2.2;
   letter-spacing: normal;
   text-align: center;
-  color: #262a34;
+  color: #ffffff;
    margin: 42px 751px 0px 837px;
 }
 
